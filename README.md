@@ -1,2 +1,2 @@
-# char-randomizer
+# CharRandomizer
 Outputs a random string.
